@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  padding: 10px;
+  font: 20px '돋움',arial,sans-serif;
+}
+h1{
+  text-align: center;
+  color: powderblue;
+  background-color: black;
+  border: red solid 5px;
+}
+
+.article{
+  border: 1px solid #ddd;
+  padding: 10px;
+
+}
+.header{
+  background:url('p1.jfif')
+}
+
+}
